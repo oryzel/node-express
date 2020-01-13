@@ -1,4 +1,4 @@
-# go-product-service
+# node-express
 
 ## Description
 This is an example of implementation of Simple RESTful using express (Node) projects.
